@@ -20,4 +20,6 @@
 ---
 ### Markdown & Documentation
 
-#### Markdown and documentation are for example the readme.md files you will see in peoples code. These are files designated to help who ever is opening up that folder to understand what is going on. Or to help your self when coming back to a previous project. Markdown allows you to change the formatting of text, for example by **bolding**  or making words _italic_. There is many more things you can do with markdown such as make lists and add links and images to help add as much detail as you need.
+#### Markdown and documentation are for example the readme.md files you will see in peoples code. These are files designated to help who ever is opening up that folder to understand what is going on. Or to help your self when coming back to a previous project. Markdown allows you to change the formatting of text.
+ 
+ ##### For example by **bolding**  or making words _italic_. There is many more things you can do with markdown such as make lists and add links and images to help add as much detail as you need.
