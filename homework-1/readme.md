@@ -8,12 +8,11 @@ How ever a **Web** **App** is more focused on providing personalized experiences
 ---
 ### VS Code & Extensions
 
-##### **VS Code**
-is a application that allows you to write code. It's a coding software.
-##### **Extensions** 
-are tools inside of VS Code that are there to help you whilst you code. 
+##### **VS Code** is a application that allows you to write code. It's a coding software.
 
-For example you can get things like prettify to make it easier to differentiate code while writing it. Or adding fun things like pets that walk around the bottom of the screen. These are all examples of extensions that allow users to install them in their VS Code.
+##### **Extensions** are tools inside of VS Code that are there to help you whilst you code. 
+
+###### For example you can get things like prettify to make it easier to differentiate code while writing it. Or adding fun things like pets that walk around the bottom of the screen. These are all examples of extensions that allow users to install them in their VS Code.
 ---
 ### Version Control, Git, & GitHub
 
