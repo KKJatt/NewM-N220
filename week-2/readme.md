@@ -4,7 +4,7 @@
 
 ### Console commands & variables
 ###### *Learned about console commands* like console.warn console.error console.log and a few more
-###### also can use shortcut **command+option+j** to open up console
+###### Also can use shortcut **command+option+j** to open up console
 ###### Learned about _strings, integers, and booleans._
 ---
 ### Scripts
