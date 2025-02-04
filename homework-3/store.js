@@ -13,9 +13,9 @@ const Discounted = itemPrice > 50;
 totalAfterTax = itemPrice * (1+0.07)
 discountedTotalAfterTax = totalAfterTax * (1-0.10)
 
-console.log("The total after tax of your item is $");
+console.log("The total after tax of your item is: $" + totalAfterTax.toFixed(2));
 console.log("Is your item available for discount: " + Discounted);
-console.log("If your item is available for discount, then the total after discount and tax is $" + (discountedTotalAfterTax).toFixed(2));
+console.log("If your item is available for discount, then the total after discount and tax is: $" + (discountedTotalAfterTax).toFixed(2));
 
 
 
