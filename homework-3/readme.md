@@ -1,6 +1,7 @@
 ### Homework 3
 ___
-###### Made three different html files and three seperate js files for them all.
+###### Made three different html files and three separate js files for them all.
+###### Home page, Store page, Login page.
 
 ###### Good function to remember for the future is .startsWith("");
 
