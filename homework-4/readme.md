@@ -10,6 +10,4 @@ ___
 
 ___
 #### Live Links
-[Home Page / Instrument Page](https://kkjatt.github.io/NewM-N220/homework-4/index.html)
-[Scores Page](https://kkjatt.github.io/NewM-N220/homework-4/scores.html)
-[Gallery Page](https://kkjatt.github.io/NewM-N220/homework-4/gallery.html)
+[Home Page](https://kkjatt.github.io/NewM-N220/homework-4/index.html)
