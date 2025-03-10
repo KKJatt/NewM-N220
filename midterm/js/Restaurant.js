@@ -100,7 +100,7 @@ function showCart(){
 
       const totalTD = document.createElement("td");
       totalTD.colSpan = "3";
-      totalTD.innerText = "$" + total;
+      totalTD.innerText = "$" + total.toFixed(2);
       totalRow.appendChild(totalNameTD);
       totalRow.appendChild(totalTD);
       cartTableRef.appendChild(totalRow);
