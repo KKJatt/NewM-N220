@@ -3,13 +3,19 @@
 }
 
 th{
-    padding-left: 15px;
+    padding: 15px;
 }
 
 td{
-    padding-left: 15px;
+    padding: 15px;
 }
 
 tr{
     background-color: blanchedalmond;
+    text-align: center;
+}
+
+li{
+    color: white;
+    
 }

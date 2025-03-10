@@ -49,13 +49,6 @@ function showCart(){
     }else{
       //else add the row with the 4 categories
       for (let i = 0; i < cart.length; i++) {
-        // cartTableRef.innerHTML +=
-        // "<tr>" +
-        // "<td>" + cart[i].name + "</td>" +
-        // "<td>" + cart[i].price + "</td>" +
-        // "<td>" + "Special Request" + "</td>" +
-        // "<td>" + "<button>" + "-" +"</button>" + "</td>"
-        // "</tr>"
 
         const newTr = document.createElement("tr");
         const nameTD = document.createElement("td");
@@ -93,7 +86,8 @@ function showCart(){
         newTr.appendChild(actionTD);
 
         cartTableRef.appendChild(newTr);
-      }
+      } // loop ends
+
       // after everything is done, now it will show the price and add it up
       let total = 0;
       for (let i = 0; i < cart.length; i++) {
@@ -105,7 +99,7 @@ function showCart(){
       totalNameTD.innerText = "Total";
 
       const totalTD = document.createElement("td");
-      totalTD.colspan = "3";
+      totalTD.colSpan = "3";
       totalTD.innerText = "$" + total;
       totalRow.appendChild(totalNameTD);
       totalRow.appendChild(totalTD);
@@ -117,13 +111,12 @@ function showCart(){
 
 function addItemToCart(e){
     const name = e.target.dataset.name;
-    const price = e.target.dataset.price;
+    const price = parseFloat(e.target.dataset.price); // makes into a number so can be used for total later
     // makes an object because there is 4 things with each item
     const cartItem = {
       name: name,
       price: price,
       specialRequest: "",
-      additionalInfo: "",
     };
 
     cart.push(cartItem);
