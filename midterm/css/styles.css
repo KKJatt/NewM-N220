@@ -1,0 +1,15 @@
+#menu {
+    background-color: grey;
+}
+
+th{
+    padding-left: 15px;
+}
+
+td{
+    padding-left: 15px;
+}
+
+tr{
+    background-color: blanchedalmond;
+}
