@@ -11,7 +11,7 @@ Some of the core webpage's i'd include would be:
 
 - Home page: Gives a brief introduction to the website and talks about what years this website is based on.
 - Gallery page: Shows art works that once you hover over they enlarge and show a quick description about the photo.
-- Games page: Let's you play a quick mini game or two. For example, one of the minigame's would be a card memory game.
+- Games page: Let's you play a quick mini game or two. For example, one of the minigames would be a card memory game.
 
 
 ### Design Choices
