@@ -3,7 +3,7 @@
 
 ### Project Summary
 
-My project will be over the Elitejorg Museum's **Western Art Collection**. I chose this topic because I have always liked Western Movies and just learning about history around that era.
+My project will be over the Elitejorg Museum's **Western Art Collection**. I chose this topic because I have always enjoyed Western Movies and just learning about history around that era. I also love playing Red Dead Redemption 2 which inspired me to make some games based on the topic that I chose, in this case Western Art.
 
 ### Core Webpages
 
