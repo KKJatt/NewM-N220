@@ -1,8 +1,9 @@
 ## Field Trip Project
+#### Karanjot Singh Kailay
 
 ### Project Summary
 
-My project will be over the Elitejorg Museum's Western Art Collection. I chose this topic because I have always liked Western Movies and just learning about history around that era.
+My project will be over the Elitejorg Museum's **Western Art Collection**. I chose this topic because I have always liked Western Movies and just learning about history around that era.
 
 ### Core Webpages
 
